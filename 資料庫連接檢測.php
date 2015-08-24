@@ -1,4 +1,3 @@
-資料庫連接檢測.php
 <?php
 header('Content-type: text/html; charset=utf-8');  
 $userName=""; //帳號
