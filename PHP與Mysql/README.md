@@ -1,3 +1,3 @@
 # PHP與Mysql
 
-網頁PHP及資料庫Mysql範例
+PHP與Mysql網頁範例
