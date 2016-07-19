@@ -1,5 +1,5 @@
 <?php
-//php version < 7.0
+//php version <7.0
 header('Content-type: text/html; charset=utf-8');  
 $userName=""; //資料庫帳號
 $password="";  //資料庫密碼
