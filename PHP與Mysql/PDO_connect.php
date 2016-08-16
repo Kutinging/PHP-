@@ -4,7 +4,7 @@ $userName=""; //資料庫帳號
 $password="";  //資料庫密碼
 $hostName=""; //資料庫主機(Server)名稱
 $database="";//資料庫名稱
-$sql = "mysql";資料庫類型
+$sql = "mysql";//資料庫類型
 $conn = "$sql:host=$hostName;dbname=$database";
 //建立資料連結
 if (!(@ $link=new PDO($conn, $userName, $password)))
